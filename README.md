@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtech1947&label=Profile%20views&color=0e75b6&style=flat" alt="rtech1947" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtech1947" alt="rtech1947" /></a> </p>
+<img align="left" alt="coding" width="400" scr="![image](https://github.com/Rtech1947/Rtech1947/assets/73714413/4debd65a-cdaf-454e-b3d3-5690afda8164)
+">
 
 - 🔭 I’m currently working with [Renewbuy.com](https://www.renewbuy.com/)
 

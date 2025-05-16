@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working with [Renewbuy.com](https://www.renewbuy.com/)
+- 🔭 I’m currently working with [DLT Labs](https://knnx.com/)
 
 - 🌱 I’m currently learning **java springboot**
 
